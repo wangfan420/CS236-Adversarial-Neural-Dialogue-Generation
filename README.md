@@ -1,3 +1,3 @@
 # <div align="center"> Adversarial Neural Dialogue Generation </div>
-## Course Project for CS236 Deep Generative Models
-## Stanford University
+## <div align="center"> Course Project for CS236 Deep Generative Models </div>
+## <div align="center"> Stanford University </div>
